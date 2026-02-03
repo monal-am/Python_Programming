@@ -1,2 +1,3 @@
-/*1.
-a) Print: Hello Everyone !!!*/
+#1.
+#a) Print: Hello Everyone !!!
+    
